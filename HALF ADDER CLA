@@ -1,3 +1,5 @@
+//HALF ADDER CLA
+
 #include<iostream>
 using namespace std;
 void halfadder(int A,int B)
