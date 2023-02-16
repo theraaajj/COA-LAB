@@ -1,5 +1,6 @@
-#include <iostream>
+/LOGIC GATES IMPLEMENTATION
 
+#include <iostream>
 using namespace std;
 
 int main()
